@@ -1,2 +1,7 @@
-# Temporary
-Just temporary file
+    "be.elab.flappycubegame": "https://github.com/EloiTeaching/2024_08_23_WOWNCG_FlappyCube.git",
+    "be.elab.isometicgame": "https://github.com/EloiTeaching/2024_08_23_WOWNCG_IsometricCubeGame.git",
+    "be.elab.mydrawablecube": "https://github.com/EloiTeaching/2024_08_23_WOWNCG_MyDrawableCube.git",
+    "be.elab.oneinputgame": "https://github.com/EloiTeaching/2024_08_23_WOWNCG_OneInputGame.git",
+    "be.elab.quicktagcollision": "https://github.com/EloiTeaching/2024_08_23_WOWNCG_QuickScriptTagCollision.git",
+    "be.elab.spwowncg": "https://github.com/EloiTeaching/2024_08_23_WOWNCG_StartPack.git",
+    "be.elab.survivalgametime": "https://github.com/EloiTeaching/2024_08_23_WOWNCG_SurvivalGameTime.git",
